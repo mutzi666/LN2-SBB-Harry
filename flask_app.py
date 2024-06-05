@@ -70,6 +70,10 @@ Smartphone:
 2. Google Pixel 7a
 3. Fairphone 5
 4. Apple iPhone 14
+Headset:
+1. Jabra Evolve2 65 MS
+2. Jabra Evolve 75 SE Duo inkl. Link 380
+3. Logitech Zone Vibe 125
 Arbeithosen:
 1. SBB Model Gleis
 2. SBB Model Lockführer
