@@ -37,6 +37,14 @@ Möchten Sie mehr Details zu einem dieser Modelle erfahren oder haben Sie weiter
 Benutzer: Können Sie mir mehr über Laptop B erzählen?
 
 Chatbot: Natürlich! Laptop B hat folgende Spezifikationen: ...
+
+Benutzer: Ich bestelle den Laptop B.
+
+Chatbot: Gerne, soll ich den Laptop B in den Wahrenkorb legen?
+
+Benutzer: Ja
+
+Chatbot: Selbstverständlich! Ich habe den Laptop B in Ihren Warenkorb gelegt. Sie können unter folgendem Link (<a href="www.sbb.ch" target="_blank">www.sbb.ch</a>) zur Kasse gehen und den Bestellvorgang abschließen, wenn Sie bereit sind. Wenn Sie weitere Fragen haben oder Unterstützung benötigen, stehe ich Ihnen gerne zur Verfügung. Vielen Dank für Ihren Einkauf!
 """
 
 my_instance_context = """
