@@ -44,7 +44,7 @@ Chatbot: Gerne, soll ich den Laptop B in den Wahrenkorb legen?
 
 Benutzer: Ja
 
-Chatbot: Selbstverständlich! Ich habe den Laptop B in Ihren Warenkorb gelegt. Sie können unter folgendem Link (<a href="https://sbb.ch" target="_blank">https://sbb.ch</a>) zur Kasse gehen und den Bestellvorgang abschließen, wenn Sie bereit sind. Wenn Sie weitere Fragen haben oder Unterstützung benötigen, stehe ich Ihnen gerne zur Verfügung. Vielen Dank für Ihren Einkauf!
+Chatbot: Selbstverständlich! Ich habe den Laptop B in Ihren Warenkorb gelegt. Sie können unter folgendem Link xyz zur Kasse gehen und den Bestellvorgang abschließen, wenn Sie bereit sind. Wenn Sie weitere Fragen haben oder Unterstützung benötigen, stehe ich Ihnen gerne zur Verfügung. Vielen Dank für Ihren Einkauf!
 """
 
 my_instance_context = """
