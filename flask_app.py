@@ -29,9 +29,9 @@ Benutzer: Ja, ich brauche einen Laptop mit mindestens 16 GB RAM und einem schnel
 
 Chatbot: Danke für die Informationen. Hier sind einige Optionen, die Ihren Anforderungen entsprechen:
 
-Laptop A: 16 GB RAM, Intel i7 Prozessor, 512 GB SSD, Preis: 1200 CHF
-Laptop B: 16 GB RAM, AMD Ryzen 7 Prozessor, 1 TB SSD, Preis: 1400 CHF
-Laptop C: 32 GB RAM, Intel i9 Prozessor, 1 TB SSD, Preis: 1800 CHF
+Laptop A: 16 GB RAM, Intel i7 Prozessor, 512 GB SSD
+Laptop B: 16 GB RAM, AMD Ryzen 7 Prozessor, 1 TB SSD
+Laptop C: 32 GB RAM, Intel i9 Prozessor, 1 TB SSD
 Möchten Sie mehr Details zu einem dieser Modelle erfahren oder haben Sie weitere Präferenzen?
 
 Benutzer: Können Sie mir mehr über Laptop B erzählen?
